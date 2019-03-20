@@ -6,3 +6,13 @@
  * Temporary styling of header for a dark bg.
  */
 
+.header{
+    z-index: 999;
+    background-color: black;
+    position: fixed;
+    width: 100%;
+    img{
+        width: 200px;
+        padding: 10px;
+    }
+}
